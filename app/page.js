@@ -1,6 +1,3 @@
-// page/index.js
-// import Weather from '../components/Weather';
-
 import Weather from "./components/Weather";
 
 export default function Home() {
